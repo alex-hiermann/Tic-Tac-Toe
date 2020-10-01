@@ -1,4 +1,4 @@
-This a java-based game which is from the JetBrains Academy: https://hyperskill.org/projects/81?goal=7
+This is a java-based game, which is from the JetBrains Academy: https://hyperskill.org/projects/81?goal=7
 
 #### Information
 1. Project: Tic-Tac-Toe with AI<br>
