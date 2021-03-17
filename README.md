@@ -2,7 +2,7 @@
  
  ## Introduction
 
-This is a java-based game, which is from the JetBrains Academy: https://hyperskill.org/projects/81?goal=7
+This is a java-based game, which is from the JetBrains Academy: https://hyperskill.org/projects/81?goal=7. <br>
 This program is written due to an school assignment by Alexander Hiermann.
 
  ## Run
